@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: assets/img/du_200.png
+  image: /assets/img/du_200.png
   image_circular: true # crops the image to make it circular
   address: >
     <p>PO Box 107129 Auckland Airport</p>
