@@ -2,96 +2,124 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: August Du
+
     - name: Languages
-      value: English, German
+      value: English, Chinese, Japanese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Management Systems  
+      institution: The University of Waikato, Hamilton, New Zealand
+      year: 2012-2018
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Thesis: <a href="https://hdl.handle.net/10289/12117" target="_blank">“The employment of knowledge visualisation to facilitate tacit knowledge sharing”</a>.
+        - Developed systemic frameworks to clarify complex operational knowledge, enhancing organizational learning, risk communication, and project team capability.
+        - The examiners described this work as “making a significant contribution to the field of knowledge management.”
 
-- title: Experience
+    - title: NZ Certificate in Adult and Tertiary Teaching – Level 5 
+      institution: Open Polytechnic of New Zealand
+      year: 2019-2020
+      description:
+        - Developed expertise in student-centred learning, andragogy, course design, assessment, and academic moderation.
+        - Applied theory to design effective, engaging learning solutions.
+
+- title: Master of Engineering Project Management    
+      institution: Beijing University of Aeronautics and Astronautics, Beijing, China
+      year: 2006-2010
+      description:
+        - Specialisation: Project Management, Process Optimisation, Risk Mitigation and System Integration.
+        - Applied project management & industrial engineering principles to large-scale aerospace projects.
+        - Developed expertise in systems management, workflow optimisation, and efficiency.
+
+- title: Bachelor of Engineering
+      institution: Beijing University of Aeronautics and Astronautics, Beijing, China
+      year: 1998-2002
+      description:
+        - Built a strong foundation in engineering principles, analytical problem-solving, & systems thinking.
+
+
+
+- title: Academic Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Lecturer & Master’s Supervisor 
+      institution: Toi Ohomai Institute of Technology, Tauranga, New Zealand
+      year: Feb 2019 - May 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Undergraduate Course Delivery: Designed and delivered 24 courses in Supply Chain Operations and Business Operations across face-to-face, blended, and fully online platforms using Moodle, Google Classroom, and Microsoft Teams.
+        - Online Facilitation & Student Engagement: Facilitated asynchronous discussion boards, weekly interactive online workshops, case studies, and practical project simulations for culturally diverse and mature online student cohorts (student number >200).
+        - Academic Leadership & Unification: Coordinated courses across 3 regional campuses, managing assessment schedules, rubric design, and cross-institutional program harmonization.
+        - Assessment & Moderation: Conducted rigorous assessment marking, double-marking moderation, and quality assurance. Used Moodle learning analytics to track student progress and implement early-intervention support. Achieved a >90% student retention rate.
+        - Higher Degree Research (HDR) Supervision: Supervised 4 Master’s thesis projects in Project Risk Management, ERP Implementation, Organizational Change, and Operations Strategy, with 2 published in journals and the other 2 working in progress.
+
+    - title: Research Coordinator  
+      institution: Toi Ohomai Institute of Technology, Tauranga, New Zealand
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Coordinated research activities and supported staff research development.
+        - Organised >10 Communities of Practice, seminars, and research workshops.
+        - Promoted research-engaged teaching culture across academic teams.
+        - Supported early-career researchers with research planning and professional development.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Tutor -E-Business Implementation (MSYS358/458) 
+      institution: The University of Waikato, Hamilton, New Zealand
+      year: 2012-2016
       description:
+        - Facilitated practical workshops on e-commerce and enterprise resource planning systems for undergraduate and postgraduate students.
+        - Supported student learning across online and face-to-face modes.
+        - Provided academic guidance and mentoring to diverse student cohorts.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
-- title: Open Source Projects
+  
+
+- title: Professional Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Senior Consultant 
+      institution: Vizthoughts Consultancy, Auckland, New Zealand
+      year: 2014-now
+      description: 
+       - Lead >20 ERP and e-commerce implementation projects using Agile methodologies, driving business transformation for SME clients across retail, hospitality, tourism, & education sectors.
+       - Facilitate stakeholder workshops to identify business needs, evaluate operational challenges and develop practical solutions.
+       - Coordinated project delivery across stakeholders, resources and implementation milestones, applying structured project management and change management practices.
+       - Supported business transformation by integrating technology solutions with organisational workflows and operational requirements.
+       - Bridged technical and management perspectives to develop solutions addressing business performance and operational efficiency.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Project Manager & Engineer  
+      institution: China Aerospace Science & Industry Corp., Beijing, China
+      year: 2004-2012
+      description: 
+       - Led aerospace R&D projects, delivering results on schedule through strategic planning, coordination, and risk management methodologies.
+       - Worked with cross-functional research and engineering teams to translate technical requirements into actionable deliverables.
+       - Developed project workflows, documentation, and training materials to facilitate knowledge transfer between teams.
+       - Engaged with engineers, senior management, and external partners to align expectations and project outcomes.
+       - Applied structured methodologies and quality standards to ensure consistency, accuracy, and compliance across projects.
+
+
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Knowlege Management & Organisational Learning
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Tacit knowledge sharing, knowlege transfer, and project team capability development.
+        - Knowledge visualisation, knowledge mapping, and knowledge management systems.
+        - organisational learning, knowledge retention, and knowledge management strategy.
+    - title: Research Methodology
       items:
-        - Description 1.
-        - Description 2.
+        - Qualitative research methods.
+        - Quantitative research methods.
+        - Mixed-methods research.
+    - title: Project Management & Business Operations
+      items:
+        - Project risk management, project planning, and project execution.
+        - Business process optimisation, business operations strategy, and business transformation. 
+        - Supply chain management, logistics, and operations management.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Hiking, cycling, photography, and travel.
