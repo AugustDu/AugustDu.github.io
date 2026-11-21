@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://augustdu.xtravel.club/al-folio/sitemap.xml
+Sitemap: https://augustdu.github.io//sitemap.xml
