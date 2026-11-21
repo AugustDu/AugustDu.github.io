@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Vizthoughts Consultancy</a>. Auckland, New Zealand
+subtitle: <a href='https://www.vizthoughts.com'>Vizthoughts Consultancy</a>. Auckland, New Zealand
 
 profile:
   align: right
