@@ -16,7 +16,7 @@ footer_text: >
 keywords: Dr. August Du, academic, researcher, educator, knowledge management  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: /assets/img/path1.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: path1.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://augustdu.github.io # the base hostname & protocol for your site
 baseurl: / # the subpath of your site, e.g. /blog/
@@ -278,6 +278,10 @@ scholar:
 
   last_name: [Du]
   first_name: [Hongxing]
+
+  last_name: [Du]
+  first_name: [August]
+
 
   style: apa
   locale: en
