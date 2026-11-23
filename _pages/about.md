@@ -6,7 +6,7 @@ subtitle: <a href='https://www.vizthoughts.com'>Vizthoughts Consultancy</a>. Auc
 
 profile:
   align: right
-  image: /assets/img/du_200.png
+  image: du_200.png
   image_circular: true # crops the image to make it circular
   address: >
     <p>PO Box 107129 Auckland Airport</p>
