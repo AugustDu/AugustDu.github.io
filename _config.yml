@@ -16,7 +16,7 @@ footer_text: >
 keywords: Dr. August Du, academic, researcher, educator, knowledge management  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: /assets/img/path1.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://augustdu.github.io # the base hostname & protocol for your site
 baseurl: / # the subpath of your site, e.g. /blog/
@@ -65,7 +65,7 @@ max_width: 800px
 # Display links to the page with a preview object on social media.
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
-og_image: assets/img/du_200.png # The site-wide (default for all links) Open Graph preview image
+og_image: /assets/img/du_200.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -75,7 +75,7 @@ github_username: hongxingdu # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: augustdu# your LinkedIn user name
+linkedin_username: augustdu # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: 8TkZ_D0AAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
