@@ -4,7 +4,7 @@ title: New Zealand Diploma in Supply Chain Management (Level 6)
 description: Designed for middle-to-senior managers and experienced industry practitioners, this 120-credit qualification challenged learners to step back and evaluate supply chains from an enterprise-wide, strategic perspective
 img: assets/img/Postgraduate-Diploma-in-Logistics-and-Supply-Chain-Management-scaled.png
 importance: 3
-category: fun
+category: undergraduate
 ---
 
 While operational execution keeps a supply chain moving day-to-day, long-term resilience and competitive advantage depend on strategic leadership. Moving from operational decision-making to senior supply chain strategy requires a shift in mindset—from managing immediate bottlenecks to designing integrated, data-driven networks.

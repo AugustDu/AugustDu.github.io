@@ -3,9 +3,8 @@ layout: page
 title: Supply Chain Management (Level 5)
 description: an industry-designed, 60-credit online qualification offered by Toi Ohomai Institute of Technology for those working in or moving into operational decision-making roles in supply chain and logistics
 img: assets/img/Supply-Chain-ManagementL5_1440x498.jpg
-redirect: https://unsplash.com
 importance: 3
-category: work
+category: undergraduate
 ---
 
 Teaching working professionals requires a fundamentally different approach than teaching full-time undergraduate students. Learners come into the virtual classroom with real operational pressures, industry experience, and an immediate need to apply what they learn on the job the very next day.
