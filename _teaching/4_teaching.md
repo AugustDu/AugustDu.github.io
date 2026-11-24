@@ -1,6 +1,6 @@
 ---
 layout: page
-title: New Zealand Diploma in Supply Chain Management (Level 6)
+title: NZ Diploma in Supply Chain Management (Level 6)
 description: Designed for middle-to-senior managers and experienced industry practitioners, this 120-credit qualification challenged learners to step back and evaluate supply chains from an enterprise-wide, strategic perspective
 img: assets/img/Postgraduate-Diploma-in-Logistics-and-Supply-Chain-Management-scaled.png
 importance: 3

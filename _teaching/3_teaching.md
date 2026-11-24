@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supply Chain Management (Level 5)
+title: NZ Certificate in Supply Chain Management (Level 5)
 description: an industry-designed, 60-credit online qualification offered by Toi Ohomai Institute of Technology for those working in or moving into operational decision-making roles in supply chain and logistics
 img: assets/img/Supply-Chain-ManagementL5_1440x498.jpg
 importance: 3
