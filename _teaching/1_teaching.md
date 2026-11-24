@@ -1,80 +1,33 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: MSYS358 (E-Business Implementation)
+description: a  300-level Management Systems paper offered at the University of Waikato (Waikato Management School)
+img: assets/img/ebiz.jpeg
 importance: 1
-category: work
+category: undergraduate
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+This paper introduces the tools and techniques needed to manage the implementation of packaged ERP solutions. Hands-on experience with SAP is provided through practicals. Issues of managing implementation and organisational change processes are covered.
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+Enterprise Resource Planning (ERP) systems sit at the heart of modern organizations, yet for many business students, terms like "enterprise integration" and "end-to-end supply chain workflows" can feel abstract until they actually see them in action.
 
+During my time at the University of Waikato (Waikato Management School), I had the privilege of facilitating the practical tutorials and labs for MSYS358/458: E-Business Implementation. Working alongside undergraduate and postgraduate students, my focus was on turning complex enterprise software concepts into tangible, hands-on skills.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## The Goal: Moving Beyond the Textbook
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+MSYS358 (and its 400-level counterpart, MSYS458) was designed to teach students the tools, methodologies, and change-management strategies required to implement packaged ERP solutions. While lectures covered the strategic why behind enterprise systems and organizational transformation, the practical labs were all about the operational how.
+
+## Hands-On Learning with SAP & Supply Chain Workflows
+
+In the computer labs—and through online support sessions—I guided students through live SAP environments. Rather than treating software exercises as simple click-through checklists, I structured my tutoring around real-world business context:
+• End-to-End Business Processes: Helping students trace how a single transaction ripples across procurement, inventory management, fulfillment, and financial accounting.
+• Supply Chain Integration: Connecting theoretical supply chain management principles directly to live ERP workflows so students could see how data flows prevent bottlenecks.
+• Troubleshooting & System Logic: Encouraging students to diagnose configuration errors themselves—building the problem-solving confidence they would need as future business analysts or ERP consultants.
+• Bridging Technical and Organizational Perspectives: Reinforcing that an ERP implementation isn't just an IT rollout; it’s a business process and change-management challenge.
+
+## Reflections on Teaching Enterprise Systems
+
+Teaching MSYS358/458 reinforced a core belief I carry into all my tertiary teaching: students learn best when theory is anchored in authentic practice. Watching students go from feeling intimidated by an enterprise interface to confidently navigating multi-step supply chain scenarios was one of the most rewarding aspects of my time at Waikato.
+Whether working with students in a university lab or professionals in industry, helping learners connect system mechanics to broader organizational goals remains at the center of my teaching philosophy.
+

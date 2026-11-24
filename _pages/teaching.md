@@ -5,7 +5,7 @@ permalink: /teaching/
 description: Materials for courses I have taught over the years.
 nav: true
 nav_order: 4
-display_categories: [work, fun]
+display_categories: [undergraduate, postgraduate, youth]
 horizontal: false
 ---
 
