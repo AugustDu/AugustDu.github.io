@@ -1,80 +1,28 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: New Zealand Diploma in Supply Chain Management (Level 6)
+description: Designed for middle-to-senior managers and experienced industry practitioners, this 120-credit qualification challenged learners to step back and evaluate supply chains from an enterprise-wide, strategic perspective
+img: assets/img/Postgraduate-Diploma-in-Logistics-and-Supply-Chain-Management-scaled.png
 importance: 3
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+While operational execution keeps a supply chain moving day-to-day, long-term resilience and competitive advantage depend on strategic leadership. Moving from operational decision-making to senior supply chain strategy requires a shift in mindset—from managing immediate bottlenecks to designing integrated, data-driven networks.
+Building on my work in vocational business education, I had the privilege of teaching on the New Zealand Diploma in Supply Chain Management (Level 6) at Toi Ohomai Institute of Technology. Designed for middle-to-senior managers and experienced industry practitioners, this 120-credit qualification challenged learners to step back and evaluate supply chains from an enterprise-wide, strategic perspective.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Facilitating High-Level Peer Learning Online
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Teaching at Level 6 meant working with learners who already brought deep operational knowledge to the virtual classroom. Delivered through flexible online study (alongside structured tutorial support), my role shifted from purely lecturing to facilitating high-level strategic discussion, critical analysis, and peer-to-peer problem solving across diverse New Zealand industries.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Key Pillars of Strategic Supply Chain Pedagogy
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+In guiding learners through the Level 6 curriculum, I focused on connecting high-level organizational theory with real-world commercial decision-making:
+• Organisational Alignment & Strategy: Helping learners align supply chain design with broader corporate objectives, ensuring procurement, logistics, and operations pull in the same strategic direction.
+• Data Analysis Methodologies & Tools: Moving beyond gut instinct by equipping managers with analytical frameworks to interpret supply chain metrics, forecast demand, and optimize network performance.
+• Market Supply, Demand & Risk Management: Guiding senior practitioners through complex risk mitigation, global market volatility, and building resilient, adaptable supply networks.
+• Customer Management & Value Creation: Emphasizing how end-to-end supply chain linkages directly shape customer experience, service reliability, and commercial profitability.
 
+## Reflections on Teaching Strategic Management
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+Teaching the Level 6 Diploma at Toi Ohomai highlighted how impactful tertiary education can be when theory is tested directly against complex, live industry challenges. Watching experienced practitioners refine their analytical skills and step confidently into key strategic decision-making roles was deeply rewarding.
+Across my teaching experiences—from hands-on ERP systems at the University of Waikato to operational and strategic supply chain qualifications at Toi Ohomai—my core commitment remains the same: empowering learners to connect analytical insight with purposeful, real-world action.

@@ -1,81 +1,30 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Supply Chain Management (Level 5)
+description: an industry-designed, 60-credit online qualification offered by Toi Ohomai Institute of Technology for those working in or moving into operational decision-making roles in supply chain and logistics
+img: assets/img/Supply-Chain-ManagementL5_1440x498.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Teaching working professionals requires a fundamentally different approach than teaching full-time undergraduate students. Learners come into the virtual classroom with real operational pressures, industry experience, and an immediate need to apply what they learn on the job the very next day.
+During my time teaching on the New Zealand Certificate in Supply Chain Management (Level 5) programme at Toi Ohomai Institute of Technology, I had the opportunity to support adult learners across Aotearoa as they stepped into operational decision-making roles across logistics, procurement, and distribution.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Navigating the Online Learning Environment
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Delivered 100% online as a part-time qualification, this programme brings together learners balancing full-time careers and family commitments. My goal as an educator was to ensure that "online" never meant "isolated." I focused on creating an engaging, supportive digital learning space where students felt connected to both the course material and each other.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Connecting Theory to Operational Decision-Making
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+The Level 5 curriculum bridges foundational supply chain concepts with practical, day-to-day operational management. In my teaching and learner support, I emphasized translating academic frameworks into actionable workplace strategies across key areas:
+• End-to-End Operational Planning: Helping learners align demand forecasting, inventory control, and manufacturing schedules to reduce waste and improve service levels.
+• Procurement & Distribution: Exploring supplier relationship management, logistics coordination, and distribution networks within the unique geographic and commercial context of New Zealand.
+• Risk, Compliance & Sustainability: Guiding discussions around health and safety, dangerous goods compliance, and building resilient, ethical supply chains.
+• Continuous Improvement & Financial Acumen: Empowering students to use cost analysis and process optimization tools to make confident, data-backed decisions in their workplaces.
 
+## Reflections on Vocational & Adult Education
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+Teaching at Toi Ohomai deepened my appreciation for applied, industry-aligned education. Seeing learners take a concept from an online session—whether an inventory optimization technique or a risk-assessment framework—and immediately implement it in their own warehouses, offices, or transport operations was immensely rewarding.
 
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+Combining my background in enterprise systems with practical supply chain pedagogy has reinforced my core teaching philosophy: effective education meets learners where they are and equips them with tools they can immediately put to work.
