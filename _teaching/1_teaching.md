@@ -21,10 +21,10 @@ MSYS358 (and its 400-level counterpart, MSYS458) was designed to teach students 
 ## Hands-On Learning with SAP & Supply Chain Workflows
 
 In the computer labs—and through online support sessions—I guided students through live SAP environments. Rather than treating software exercises as simple click-through checklists, I structured my tutoring around real-world business context:
-• End-to-End Business Processes: Helping students trace how a single transaction ripples across procurement, inventory management, fulfillment, and financial accounting.
-• Supply Chain Integration: Connecting theoretical supply chain management principles directly to live ERP workflows so students could see how data flows prevent bottlenecks.
-• Troubleshooting & System Logic: Encouraging students to diagnose configuration errors themselves—building the problem-solving confidence they would need as future business analysts or ERP consultants.
-• Bridging Technical and Organizational Perspectives: Reinforcing that an ERP implementation isn't just an IT rollout; it’s a business process and change-management challenge.
+- End-to-End Business Processes: Helping students trace how a single transaction ripples across procurement, inventory management, fulfillment, and financial accounting.
+- Supply Chain Integration: Connecting theoretical supply chain management principles directly to live ERP workflows so students could see how data flows prevent bottlenecks.
+- Troubleshooting & System Logic: Encouraging students to diagnose configuration errors themselves—building the problem-solving confidence they would need as future business analysts or ERP consultants.
+- Bridging Technical and Organizational Perspectives: Reinforcing that an ERP implementation isn't just an IT rollout; it’s a business process and change-management challenge.
 
 ## Reflections on Teaching Enterprise Systems
 
